@@ -22,3 +22,10 @@
 * Using Iris Dataset
 * Calculate Euclide Distance
 * Predict with k = 3 and k = 5
+
+## SVM
+
+### Description
+* Class implement Linear Support Vector Machine
+* Calculate weights and biases
+* Visualize all point of data and draw linear SVM line
