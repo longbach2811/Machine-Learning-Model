@@ -29,3 +29,8 @@
 * Class implement Linear Support Vector Machine
 * Calculate weights and biases
 * Visualize all point of data and draw linear SVM line
+
+## Artificial Neural Network
+* Class implement ANN
+* Calculate weights
+* Model has 2 layer, layer 1 has 7 inputs and 15 cells, layer 2 has one cells and 15 inputs
